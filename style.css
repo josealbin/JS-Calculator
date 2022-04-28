@@ -1,0 +1,6 @@
+.calc { width: 285px; height: 500px; border: 1px solid black; background: rgb(86, 98, 158); margin-left: 500px; }
+#screen { width: 87%; height: 50px; pointer-events: none; margin-left: 14px; margin-top: 10px; border-radius: 5px ;}
+.btn { height: 70px; width: 50px; margin-left: 14px; margin-top: 17px; border-radius: 8px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; background-color: #fff; }
+.equal { height: 70px; width: 118px; margin-left: 14px; border-radius: 8px; font-weight: bold; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
+.brand { margin-left: 35px; width: 40%; }
+.dotbtn { height: 50px; width: 50px; margin-left: 14px; margin-top: 17px; border-radius: 8px; font-weight: bold; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; background-color: #fff;}
